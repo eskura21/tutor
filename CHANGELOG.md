@@ -2,6 +2,7 @@
 
 ## Latest
 
+- [Improvement] Persist LMS/CMS logs to disk by default (with collaboration from @silviot 💪)
 - [Improvement] Add `local exec` command for running commands inside existing containers
 - [Bugfix] Fix triple display of courses in LMS search (upstream patch, #189)
 
